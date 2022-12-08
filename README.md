@@ -1,5 +1,6 @@
 ![](https://github.com/MadeWithAI/MadeWithAI/blob/main/face_recognition.gif)
 <br>
+
 [![GitHub forks](https://img.shields.io/github/forks/MadeWithAI/StrapDown.js.svg?style=social&label=Fork&maxAge=2592000)](https://GitHub.com/Naereen/StrapDown.js/network/)
 <br>
 [![trophy](https://github-profile-trophy.vercel.app/?username=MadeWithAI&theme=algolia)](https://github.com/ryo-ma/github-profile-trophy)
