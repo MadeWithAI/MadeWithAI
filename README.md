@@ -4,7 +4,6 @@
 <br>
 [![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark&quote=Predicting+the+future+isn't+magic+,+it's+artificial+intelligence&author=Dave+Waters)](https://github.com/piyushsuthar/github-readme-quotes)
 <br>
-![visitor badge](https://visitor-badge.glitch.me/badge?page_id=jwenjian.visitor-badge)
 ### Github Trophies
 ---
 [![trophy](https://github-profile-trophy.vercel.app/?username=MadeWithAI&theme=algolia)](https://github.com/ryo-ma/github-profile-trophy)
