@@ -1,9 +1,5 @@
 ![](https://github.com/MadeWithAI/MadeWithAI/blob/main/face_recognition.gif)
 <br>
-[![Typing SVG](https://readme-typing-svg.demolab.com/?lines=Welcome+to+the+world+of+Artificial+Intelligence)](https://git.io/typing-svg)
-<br>
-[![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark&quote=Predicting+the+future+isn't+magic+,+it's+artificial+intelligence&author=Dave+Waters)](https://github.com/piyushsuthar/github-readme-quotes)
-<br>
 ### Github Trophies
 ---
 [![trophy](https://github-profile-trophy.vercel.app/?username=MadeWithAI&theme=algolia)](https://github.com/ryo-ma/github-profile-trophy)
